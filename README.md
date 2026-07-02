@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Assalomu alaykum, Men Muhammad Aziz
+# 👋 Hi, I'm Muhammad Aziz
 
-### 🚀 Python Developer • Embedded Systems • UI/UX Designer
+### 🚀 Python Developer • Embedded Systems Developer • UI/UX Designer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Arduino+%26+ESP32+Developer;UI%2FUX+Designer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Python+Developer;Arduino+%26+ESP32+Developer;UI%2FUX+Designer;Web+Developer;Always+Learning+New+Things" />
+
+<img src="https://komarev.com/ghpvc/?username=rustamovx12&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -12,37 +14,56 @@
 
 # 💫 About Me
 
-🇺🇿 I'm **Muhammad Aziz** from **Fergana, Uzbekistan**.
+🇺🇿 I'm **Muhammad Aziz**, a passionate developer from **Fergana, Uzbekistan**.
 
-I enjoy building useful software, embedded systems and modern web applications.
+I enjoy building useful software, embedded systems, and modern web applications. I love transforming ideas into real-world projects through clean code, creativity, and continuous learning.
 
-Currently learning **3D Modeling with Onshape** while improving my programming and design skills every day.
+### 🌱 Currently Learning
 
-- 🌍 Location **Fergana, Uzbekistan**
-- 🎯 Focus **Python • Arduino • ESP32 • Web Development**
-- 📚 Currently Learning **Onshape & Advanced Python**
-- 🤝 Open for Collaboration
-- ⚡ Fun Fact: I enjoy turning ideas into real projects.
+- Advanced Python
+- Onshape (3D CAD)
+- Modern Web Development
+
+### 🎯 Interests
+
+- Python Development
+- Arduino & ESP32
+- Embedded Systems
+- UI/UX Design
+- Automation
+- Web Development
+
+### ⚡ Fun Fact
+
+> "I enjoy turning ideas into real projects."
 
 ---
 
-# 🚀 Technologies
+# 🚀 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python,js,java,cpp,c,cs,html,css"/>
-
 </p>
 
-### Frameworks & Tools
+### 🛠 Tools & Technologies
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=arduino,vscode,figma,ps,git,github"/>
-
+<img src="https://skillicons.dev/icons?i=arduino,vscode,git,github,figma,ps"/>
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🎓 Diploma Generator | Professional diploma & certificate generator website |
+| 🤖 Arduino Robot Car | Obstacle avoidance autonomous robot |
+| 🌐 Portfolio Website | Responsive personal portfolio |
+| 📷 ESP32 Projects | IoT & Smart Embedded Systems |
+| 🐍 Python Projects | Automation and desktop applications |
 
 ---
 
@@ -50,7 +71,7 @@ Currently learning **3D Modeling with Onshape** while improving my programming a
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rustamovx12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rustamovx12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovx12&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -68,6 +89,16 @@ Currently learning **3D Modeling with Onshape** while improving my programming a
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rustamovx12&theme=tokyo-night"/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -78,13 +109,26 @@ Currently learning **3D Modeling with Onshape** while improving my programming a
 
 ---
 
-# 📈 Contribution Graph
+# 🛠 Skills
 
-<p align="center">
+| Category | Technologies |
+|-----------|--------------|
+| Programming | Python • JavaScript • Java • C • C++ • C# |
+| Frontend | HTML • CSS |
+| Embedded | Arduino • ESP32 |
+| Design | Figma • Photoshop |
+| Tools | Git • GitHub • VS Code |
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rustamovx12&theme=tokyo-night"/>
+---
 
-</p>
+# 🎯 Current Goals
+
+- 🐍 Master Python
+- 🤖 Build Advanced ESP32 Projects
+- 🌐 Become Full Stack Developer
+- 🎨 Improve UI/UX Design
+- 🖨 Learn 3D Printing & CAD
+- 🚀 Contribute to Open Source
 
 ---
 
@@ -96,27 +140,23 @@ Currently learning **3D Modeling with Onshape** while improving my programming a
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/rustamovx12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
-
----
-
-# 💡 Current Goals
-
-- 🐍 Master Python
-- 🤖 Build Advanced ESP32 Projects
-- 🌐 Become Full Stack Developer
-- 🎨 Improve UI/UX Design
-- 🖨️ Learn 3D Printing & CAD
 
 ---
 
 <div align="center">
 
-### 👀 Visitors
+## 💬 Favorite Quote
 
-<img src="https://komarev.com/ghpvc/?username=rustamovx12&style=for-the-badge&color=blue"/>
+### *"Turning ideas into reality through code."*
 
-### ⭐ Thanks for visiting my profile!
+---
+
+⭐ If you like my projects, consider giving them a star!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C2FF,100:6A5ACD&section=footer"/>
 
