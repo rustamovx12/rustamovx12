@@ -1,36 +1,123 @@
-# Hi 👋, My name is Muhammad Aziz
-### Web Developer and Designer
+<div align="center">
 
-**rustamovx12/rustamovx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Assalomu alaykum, Men Muhammad Aziz
 
-O'zbekiston, Farg'onadanman! 🇺🇿 Python, Arduino, va ESP32 bilan ishlayman. Har kuni yangi loyihalar ustida bosh qotiraman va o'rganaman.
+### 🚀 Python Developer • Embedded Systems • UI/UX Designer
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Arduino+%26+ESP32+Developer;UI%2FUX+Designer;Always+Learning+New+Things" />
 
-### 🚀 Men haqimda:
-* 🌍  **Yashash joyim:** Farg'ona, O'zbekiston
-* ✉️  **Aloqa uchun:** [muhammadazizx.12@gmail.com](mailto:muhammadazizx.12@gmail.com)
-* 🧠  **Hozirda o'rganyapman:** [Onshape](https://www.onshape.com/) (3D Modellashtirish)
-* 👥  **Hamkorlik uchun:** Dizayn va Dasturlash yo'nalishidagi loyihalar
+</div>
 
 ---
 
-### 💻 Texnologiyalar va Instrumentlar:
+# 💫 About Me
+
+🇺🇿 I'm **Muhammad Aziz** from **Fergana, Uzbekistan**.
+
+I enjoy building useful software, embedded systems and modern web applications.
+
+Currently learning **3D Modeling with Onshape** while improving my programming and design skills every day.
+
+- 🌍 Location **Fergana, Uzbekistan**
+- 🎯 Focus **Python • Arduino • ESP32 • Web Development**
+- 📚 Currently Learning **Onshape & Advanced Python**
+- 🤝 Open for Collaboration
+- ⚡ Fun Fact: I enjoy turning ideas into real projects.
+
+---
+
+# 🚀 Technologies
+
+### Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,c,cs,html,css"/>
+
 </p>
+
+### Frameworks & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />
+
+<img src="https://skillicons.dev/icons?i=arduino,vscode,figma,ps,git,github"/>
+
 </p>
 
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rustamovx12&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustamovx12&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=rustamovx12&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rustamovx12&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rustamovx12&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:muhammadazizx.12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Current Goals
+
+- 🐍 Master Python
+- 🤖 Build Advanced ESP32 Projects
+- 🌐 Become Full Stack Developer
+- 🎨 Improve UI/UX Design
+- 🖨️ Learn 3D Printing & CAD
+
+---
+
+<div align="center">
+
+### 👀 Visitors
+
+<img src="https://komarev.com/ghpvc/?username=rustamovx12&style=for-the-badge&color=blue"/>
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C2FF,100:6A5ACD&section=footer"/>
+
+</div>
